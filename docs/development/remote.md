@@ -138,7 +138,7 @@ Once you have cloned your code locally, you can get to work.
 ##### Syncing changes
 
 The easiest way to see your changes on your remote development server
-is to **push them to GitHub** and them **fetch and merge** them from
+is to **push them to GitHub** and them **fetch and merge** then from
 the remote server.
 
 For more detailed instructions about how to do this, see our [Git & GitHub
